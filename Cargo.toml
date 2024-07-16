@@ -9,3 +9,4 @@ edition = "2021"
 md5 = "*"
 serde = { version = "*", features = ["derive"] }
 serde_json = "*"
+itertools = "*"
