@@ -7,3 +7,5 @@ edition = "2021"
 
 [dependencies]
 md5 = "*"
+serde = { version = "*", features = ["derive"] }
+serde_json = "*"
